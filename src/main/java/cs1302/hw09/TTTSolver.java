@@ -1,4 +1,4 @@
-package cs1302.ce26;
+package cs1302.hw09;
 
 import java.util.Scanner;
 
