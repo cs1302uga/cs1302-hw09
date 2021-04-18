@@ -26,6 +26,13 @@ It is important to not only recall what you typed but also why you typed each of
 You won't need to submit your notes in your final submission. However, if done properly, your exercise notes 
 will serve as a helpful study guide for the exam.
 
+### Intro / Demo Video
+
+If you'd like to see a quick walkthrough of each checkpoint in this homework, check out the intro video found
+[here](https://www.youtube.com/watch?v=9QF9EDT7B14&t=1s). Please note that this video was made using a different
+writeup but the program works the same way and all of the checkpoints still line up. Just don't be shocked if you
+notice that the GitHub page in the video looks slightly different from this one.
+
 ### Getting Started
 
 1. Use Git to clone the repository for this exercise onto Odin into a subdirectory called `cs1302-hw09`:
