@@ -35,7 +35,12 @@ notice that the GitHub page in the video looks slightly different from this one.
 
 ### Getting Started
 
-1. Use Git to clone the repository for this exercise onto Odin into a subdirectory called `cs1302-hw09`:
+1. The [`CSCI 1302 Recursion Tutorial`](https://github.com/cs1302uga/cs1302-tutorials/blob/master/recursion.md) is
+   a prerequisite. **If you have not completed the tutorial, you are not prepared to complete this homework assignment**.
+   Please complete the tutorial first and ask any questions you have.
+   
+1. After completing the tutorial, use Git to clone the repository for this exercise onto Odin into a subdirectory called 
+   `cs1302-hw09`:
 
    ```
    $ git clone --depth 1 https://github.com/cs1302uga/cs1302-hw09.git
