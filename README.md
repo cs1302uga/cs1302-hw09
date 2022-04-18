@@ -1,6 +1,6 @@
 # cs1302-hw09 Tic-Tac-Toe Solver
 
-![Approved for: Fall 2021](https://img.shields.io/badge/Approved%20for-Fall%202021-blue)
+![Approved for: Spring 2022](https://img.shields.io/badge/Approved%20for-Spring%202022-purple)
 
 This homework futher explores the concept of [recursion](https://github.com/cs1302uga/cs1302-hw09).
 
