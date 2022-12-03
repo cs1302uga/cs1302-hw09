@@ -109,7 +109,7 @@ notice that the GitHub page in the video looks slightly different from this one.
    
    * Draw the recursion tree for `printAllBoards("XOXOXO---")`.
 
-   * Check your recursion tree again the solution found here: [Recursion Tree](rec_tree.txt).
+   * Check your recursion tree against the solution found here: [Recursion Tree](rec_tree.txt).
 
 1. Implement the `printAllBoards` method in `TTTSolver`. Remember to make local variables for any data you want to be preserved
    across recursive calls.
